@@ -1,5 +1,123 @@
-<div style="background: linear-gradient(145deg, #0A0F1A, #1C252F); padding: 30px; border-radius: 25px; box-shadow: 0 8px 25px rgba(0, 212, 255, 0.3);"> <img src="https://cdn-icons-png.flaticon.com/512/10846/10846854.png" alt="AI Processor Icon" min-width="400px" max-width="400px" width="400px" align="right" style="filter: drop-shadow(0 0 20px rgba(0, 212, 255, 0.7)); margin-left: 25px;"> <h3 style="color: #00D4FF; font-family: 'Orbitron', sans-serif; font-size: 2em;">About Me:</h3> <br> <ul style="color: #CFCFD6; font-size: 1.25em; line-height: 1.8; list-style-type: none;"> <li>🇧🇷 Brazilian pioneer with 15+ years redefining <strong>Artificial Intelligence</strong>, <strong>MLOps</strong>, <strong>AIOps</strong>, and <strong>Data Science</strong>.</li> <li>Architect of transformative AI solutions, empowering global industries with intelligent, scalable systems 🚀.</li> <li>Authored <strong>200+ peer-reviewed articles</strong> and <strong>30 eBooks</strong>, adopted in 50+ countries, advancing AI literacy worldwide 📚.</li> <li>Doctorate in <strong>Artificial Intelligence</strong> :brain: | Expert in distributed systems, generative AI, and autonomous orchestration.</li> <li>Currently pioneering <strong>neuro-symbolic AI</strong>, <strong>self-adaptive AIOps frameworks</strong>, and <strong>AI ethics standards</strong> 🌱.</li> <li>Advocate for open-source innovation, mentoring Brazil’s tech talent, and a sci-fi enthusiast exploring AI’s future 🎮.</li> </ul> </div> <div align="center" style="margin: 40px 0;"> <a href="#portfolio" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Explore_My_Portfolio-%2300D4FF.svg?style=for-the-badge&logo=rocket&logoColor=%230A0F1A&color=%230A0F1A" alt="Portfolio" /> </a> </div> <hr style="border: 1px solid #00D4FF; opacity: 0.4; margin: 30px 0;">
-Global Impact
-<div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center; background: #0A0F1A; padding: 25px; border-radius: 20px;"> <div style="flex: 1; min-width: 280px; text-align: center; color: #CFCFD6;"> <h4 style="color: #00D4FF;">Research Leadership</h4> <p>Published 200+ articles in journals like <em>ACM Computing Surveys</em> and <em>Neural Networks</em>, shaping AI methodologies.</p> </div> <div style="flex: 1; min-width: 280px; text-align: center; color: #CFCFD6;"> <h4 style="color: #00D4FF;">Global Education</h4> <p>Authored 30 eBooks, integrated into curricula at institutions like USP and MIT, training 10,000+ students.</p> </div> <div style="flex: 1; min-width: 280px; text-align: center; color: #CFCFD6;"> <h4 style="color: #00D4FF;">Industry Transformation</h4> <p>Designed AI pipelines for global leaders in banking, healthcare, and retail, boosting efficiency by 30%+.</p> </div> <div style="flex: 1; min-width: 280px; text-align: center; color: #CFCFD6;"> <h4 style="color: #00D4FF;">Community Impact</h4> <p>Organized AI summits and workshops, empowering 2,000+ developers across Latin America.</p> </div> </div> <hr style="border: 1px solid #00D4FF; opacity: 0.4; margin: 30px 0;"> <div align="center" style="background: #0A0F1A; padding: 25px; border-radius: 20px;"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheiver2&layout=compact&langs_count=14&theme=transparent&hide_border=true&card_width=500&title_color=00D4FF&text_color=CFCFD6&icon_color=00D4FF" style="border-radius: 15px; margin: 15px;" /> <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dheiver2&theme=transparent&hide_border=true&title_color=00D4FF&text_color=CFCFD6&icon_color=00D4FF" style="border-radius: 15px; margin: 15px;" /> </div> <h2 style="color: #00D4FF; font-family: 'Orbitron', sans-serif; text-align: center; font-size: 2.2em; margin: 50px 0 25px;">Technical Expertise</h2> <h3 style="color: #CFCFD6; text-align: center;">Programming Languages</h3> <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 15px;"> <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Julia-%239557B9.svg?style=flat-square&logo=julia&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white&color=%230A0F1A" /> </div> <h3 style="color: #CFCFD6; text-align: center;">AI & Machine Learning</h3> <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 15px;"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black&color=%230A0F1A" /> <img src="https://img.shields.io/badge/LangChain-%2300D4FF.svg?style=flat-square&logo=langchain&logoColor=black&color=%230A0F1A" /> <img src="https://img.shields.io/badge/JAX-%2300D4FF.svg?style=flat-square&logo=google&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/ONNX-%23005CED.svg?style=flat-square&logo=onnx&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/DeepLearning4J-%2300D4FF.svg?style=flat-square&logo=apache&logoColor=white&color=%230A0F1A" /> </div> <h3 style="color: #CFCFD6; text-align: center;">MLOps & AIOps</h3> <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 15px;"> <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/MLflow-%230099D8.svg?style=flat-square&logo=mlflow&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Airflow-%230178A6.svg?style=flat-square&logo=apache-airflow&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/DVC-%239450FF.svg?style=flat-square&logo=data-version-control&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Kubeflow-%2300D4FF.svg?style=flat-square&logo=kubeflow&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Weights_&_Biases-%23FFD700.svg?style=flat-square&logo=weights-and-biases&logoColor=black&color=%230A0F1A" /> </div> <h3 style="color: #CFCFD6; text-align: center;">Cloud & Infrastructure</h3> <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 15px;"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=terraform&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat-square&logo=ansible&logoColor=white&color=%230A0F1A" /> </div> <h3 style="color: #CFCFD6; text-align: center;">Data & Analytics</h3> <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 15px;"> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Databricks-%23FF3621.svg?style=flat-square&logo=databricks&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Snowflake-%2300D4FF.svg?style=flat-square&logo=snowflake&logoColor=white&color=%230A0F1A" /> <img src="https://img.shields.io/badge/Polars-%2300D4FF.svg?style=flat-square&logo=polars&logoColor=white&color=%230A0F1A" /> </div> <hr style="border: 1px solid #00D4FF; opacity: 0.4; margin: 30px 0;">
-Connect with Me
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center; padding: 25px; background: #0A0F1A; border-radius: 20px;"> <a href="mailto:dheiver.santos@example.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white&color=%230A0F1A" /></a> <a href="https://www.linkedin.com/in/dheiversantos/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&color=%230A0F1A" /></a> <a href="https://x.com/dheiversantos"><img src="https://img.shields.io/badge/X-%2300D4FF.svg?style=flat-square&logo=x&logoColor=%230A0F1A&color=%230A0F1A" /></a> <a href="https://medium.com/@dheiversantos"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white&color=%230A0F1A" /></a> <a href="https://github.com/dheiver2"><img src="https://img.shields.io/badge/GitHub-%231A1A1A.svg?style=flat-square&logo=github&logoColor=white&color=%230A0F1A" /></a> <a href="https://scholar.google.com/citations?user=dheiversantos"><img src="https://img.shields.io/badge/Google_Scholar-%234285F4.svg?style=flat-square&logo=google-scholar&logoColor=white&color=%230A0F1A" /></a> </div>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Dr.+Dheiver+Francisco+Santos;AI+Scientist+%7C+ML%2FMLOps+Engineer;Doctorate+in+Artificial+Intelligence;Creator+of+the+Mangaba+AI+Ecosystem" alt="Typing SVG" />
+
+<br>
+
+[![Website](https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dheiverphd.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheiversantos/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dheiversantos)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dheiversantos)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=dheiversantos)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dheiver2&color=00d4ff&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+### 👋 About Me
+
+- 🇧🇷 Brazilian AI scientist and engineer with 15+ years of experience in **Artificial Intelligence**, **MLOps**, **AIOps** and **Data Science**.
+- 🎓 Doctorate in **Artificial Intelligence**, focused on distributed systems, generative AI and autonomous orchestration.
+- 🥭 Creator of **Mangaba AI**, a growing ecosystem of self-improving, multi-platform autonomous agents.
+- 🚀 Designs production-grade AI pipelines and intelligent automation for real-world use cases across health, retail and public services.
+- ✍️ Writes and publishes technical content on modern AI engineering practices.
+- 🌱 Currently exploring neuro-symbolic AI, self-adaptive AIOps frameworks and applied AI ethics.
+- 🤝 Open-source advocate and mentor for emerging Brazilian tech talent.
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/dheiver2/mangaba-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=mangaba-agent&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/mangaba-claude-skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=mangaba-claude-skills&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/mangaba-operator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=mangaba-operator&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/vitasentinel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=vitasentinel&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/SalesPulseAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=SalesPulseAI&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/segmentacao-dentes-raiox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=segmentacao-dentes-raiox&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dheiver2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=dheiver2&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheiver2&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="60%" />
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dheiver2&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+**AI & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**MLOps & AIOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Data & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dheiverphd.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheiver.santos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheiversantos/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dheiversantos)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dheiversantos)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dheiversantos)
+
+</div>
