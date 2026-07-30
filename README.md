@@ -32,12 +32,12 @@
 
 <div align="center">
 
-<a href="https://github.com/dheiver2/mangaba-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=mangaba-agent&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/dheiver2/mangaba-claude-skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=mangaba-claude-skills&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/dheiver2/mangaba-operator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=mangaba-operator&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/dheiver2/vitasentinel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=vitasentinel&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/dheiver2/SalesPulseAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=SalesPulseAI&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/dheiver2/segmentacao-dentes-raiox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dheiver2&repo=segmentacao-dentes-raiox&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/mangaba-agent"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=mangaba-agent&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/mangaba-claude-skills"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=mangaba-claude-skills&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/mangaba-operator"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=mangaba-operator&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/vitasentinel"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=vitasentinel&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/SalesPulseAI"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=SalesPulseAI&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/dheiver2/segmentacao-dentes-raiox"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=segmentacao-dentes-raiox&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
@@ -47,10 +47,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dheiver2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=dheiver2&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheiver2&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="60%" />
+<img src="https://github-stats-extended.vercel.app/api?username=dheiver2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dheiver2&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
 
 </div>
 
@@ -59,7 +57,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dheiver2&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-trophies.devomb.com/?username=dheiver2&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
