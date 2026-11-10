@@ -28,6 +28,20 @@
 
 ---
 
+<!-- bancada:inicio -->
+### 🔬 Measured on the bench
+
+_Latest results from my own experiments, updated automatically from the commits where they were measured._
+
+- In 6 rounds across a set of 33 difficult tasks, the cascade achieved an average of 26.8 correct answers against 25.7 for Claude: a small difference that cannot yet be separated from the noise between rounds. [→ commit](https://github.com/dheiver2/tessera/commit/4f1971c7c9d333e74f8ff992e61f2300175dc400)
+- When extracting and running JavaScript expressions directly from the question text (without calling the model), the median time (p50) dropped from 22.4s to 11.7s in specific tests. [→ commit](https://github.com/dheiver2/tessera/commit/eb5471b90f96e1cad3cfccabb3fc2138888ea574)
+- In the comparison across 30 difficult tasks over two rounds, cascade v4 got 49 answers correct and Claude 48, resulting in a technical tie. [→ commit](https://github.com/dheiver2/tessera/commit/10dbbb512d111745cce2fac47ca0040950137966)
+
+Weekly notes (pt-BR): [Notas de Bancada](https://dheiver.substack.com) · [dheiverphd.com](https://dheiverphd.com)
+<!-- bancada:fim -->
+
+---
+
 ### 🚀 Featured Projects
 
 <div align="center">
