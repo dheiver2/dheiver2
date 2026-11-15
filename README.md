@@ -37,7 +37,7 @@ _Latest results from my own experiments, updated automatically from the commits 
 - When extracting and running JavaScript expressions directly from the question text (without calling the model), the median time (p50) dropped from 22.4s to 11.7s in specific tests. [→ commit](https://github.com/dheiver2/tessera/commit/eb5471b90f96e1cad3cfccabb3fc2138888ea574)
 - In the comparison across 30 difficult tasks over two rounds, cascade v4 got 49 answers correct and Claude 48, resulting in a technical tie. [→ commit](https://github.com/dheiver2/tessera/commit/10dbbb512d111745cce2fac47ca0040950137966)
 
-Weekly notes (pt-BR): [Notas de Bancada](https://dheiver.substack.com) · [dheiverphd.com](https://dheiverphd.com)
+Weekly notes (pt-BR): [Notas de Bancada](https://dheiver.substack.com) · [dheiverphd.com](https://dheiverphd.com/?utm_source=github&utm_medium=agora&utm_campaign=quem_sou&utm_content=readme)
 <!-- bancada:fim -->
 
 ---
