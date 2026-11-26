@@ -1,32 +1,50 @@
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:00d4ff&height=190&section=header&text=Dheiver%20Santos,%20PhD&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20Scientist%20%C2%B7%20ML%20%2F%20MLOps%20Engineer%20%C2%B7%20Creator%20of%20Mangaba%20AI&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Dheiver Santos, PhD" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Dr.+Dheiver+Francisco+Santos;AI+Scientist+%7C+ML%2FMLOps+Engineer;Doctorate+in+Artificial+Intelligence;Creator+of+the+Mangaba+AI+Ecosystem" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=640&lines=Autonomous+agents+that+improve+themselves;Production-grade+AI+pipelines+%26+MLOps;Measuring+everything+on+the+bench;Open-source+%C2%B7+Made+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
-<br>
+<br/>
 
-[![Website](https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dheiverphd.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheiversantos/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dheiversantos)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dheiversantos)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=dheiversantos)
-
-![Profile Views](https://komarev.com/ghpvc/?username=dheiver2&color=00d4ff&style=flat-square&label=Profile+Views)
+<a href="https://dheiverphd.com"><img src="https://img.shields.io/badge/dheiverphd.com-0e7490?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dheiversantos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=mqe6nRAAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
+<a href="https://orcid.org/0000-0002-8599-9436"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+<a href="https://dheiver.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" /></a>
+<a href="https://x.com/dheiversantos"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=dheiver2&color=0e7490&style=flat-square&label=views" />
 
 </div>
 
----
+<br/>
 
-### 👋 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🇧🇷 Brazilian AI scientist and engineer with 15+ years of experience in **Artificial Intelligence**, **MLOps**, **AIOps** and **Data Science**.
-- 🎓 Doctorate in **Artificial Intelligence**, focused on distributed systems, generative AI and autonomous orchestration.
-- 🥭 Creator of **Mangaba AI**, a growing ecosystem of self-improving, multi-platform autonomous agents.
-- 🚀 Designs production-grade AI pipelines and intelligent automation for real-world use cases across health, retail and public services.
-- ✍️ Writes and publishes technical content on modern AI engineering practices.
-- 🌱 Currently exploring neuro-symbolic AI, self-adaptive AIOps frameworks and applied AI ethics.
-- 🤝 Open-source advocate and mentor for emerging Brazilian tech talent.
+### 👋 About me
 
----
+Brazilian **AI scientist and engineer** with 15+ years in **Artificial Intelligence, MLOps, AIOps and Data Science**.
+
+I build **production-grade AI pipelines** and intelligent automation for health, retail and public services — and I'm the creator of **🥭 Mangaba AI**, an ecosystem of self-improving, multi-platform autonomous agents.
+
+Open-source advocate and mentor for emerging Brazilian tech talent.
+
+</td>
+<td width="42%" valign="top">
+
+### 🧭 Right now
+
+- 🤖 Coding-agent harnesses &amp; cascades
+- 🧠 Neuro-symbolic AI
+- ⚙️ Self-adaptive AIOps
+- ⚖️ Applied AI ethics
+- ✍️ Weekly notes on [Notas de Bancada](https://dheiver.substack.com)
+
+</td>
+</tr>
+</table>
 
 <!-- bancada:inicio -->
 ### 🔬 Measured on the bench
@@ -40,96 +58,57 @@ _Latest results from my own experiments, updated automatically from the commits 
 Weekly notes (pt-BR): [Notas de Bancada](https://dheiver.substack.com) · [dheiverphd.com](https://dheiverphd.com/?utm_source=github&utm_medium=agora&utm_campaign=quem_sou&utm_content=readme)
 <!-- bancada:fim -->
 
----
+### 🚀 Featured projects
 
-### 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/dheiver2/mangaba-agent"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=mangaba-agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/dheiver2/tessera"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=tessera&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" width="100%" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/dheiver2/mangaba-claude-skills"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=mangaba-claude-skills&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" width="100%" /></a></td>
+<td><a href="https://github.com/dheiver2/mangaba-operator"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=mangaba-operator&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" width="100%" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/dheiver2/vitasentinel"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=vitasentinel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" width="100%" /></a></td>
+<td><a href="https://github.com/dheiver2/SalesPulseAI"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=SalesPulseAI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" width="100%" /></a></td>
+</tr>
+</table>
 
-<div align="center">
+### 🛠️ Tech stack
 
-<a href="https://github.com/dheiver2/mangaba-agent"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=mangaba-agent&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/dheiver2/mangaba-claude-skills"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=mangaba-claude-skills&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/dheiver2/mangaba-operator"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=mangaba-operator&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/dheiver2/vitasentinel"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=vitasentinel&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/dheiver2/SalesPulseAI"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=SalesPulseAI&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/dheiver2/segmentacao-dentes-raiox"><img src="https://github-stats-extended.vercel.app/api/pin/?username=dheiver2&repo=segmentacao-dentes-raiox&theme=tokyonight&hide_border=true" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,julia,go,rust,ts,swift&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI / ML" />
+  <a href="https://huggingface.co"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" /></a>
+  <a href="https://www.langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" /></a><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,aws,azure,gcp,terraform&theme=dark" alt="MLOps / Cloud" /><br/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+</p>
 
-</div>
+### 📊 On GitHub
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=dheiver2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dheiver2&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-trophies.devomb.com/?username=dheiver2&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-
-**AI & Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**MLOps & AIOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
----
-
-### 📫 Connect with Me
+<table>
+<tr>
+<td width="50%"><img src="https://github-stats-extended.vercel.app/api?username=dheiver2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&hide_rank=false&card_width=420" width="100%" /></td>
+<td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dheiver2&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="100%" /></td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dheiverphd.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheiver.santos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheiversantos/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dheiversantos)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dheiversantos)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dheiversantos)
+<br/>
+
+**Let's build something measurable.** &nbsp;
+<a href="mailto:dheiver.santos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://dheiverphd.com"><img src="https://img.shields.io/badge/Work_with_me-0e7490?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e7490,100:0f172a&height=110&section=footer" width="100%" />
